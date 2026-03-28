@@ -2,6 +2,14 @@
 
 > Open standard for AI agent user consent lifecycle — GDPR, CCPA, EU AI Act.
 
+
+> **Canonical Source:** This spec is maintained in the main
+> [agent-md-specs](https://github.com/totalmarkdown/agent-md-specs) repository.
+> This repo is an auto-synced mirror for easy discovery and download.
+> To report issues or submit changes, please open a PR or issue on the
+> [main repository](https://github.com/totalmarkdown/agent-md-specs).
+
+
 ## Why This Matters
 
 CONSENT.md ensures AI agents operate with explicit, informed, and revocable user permission.
