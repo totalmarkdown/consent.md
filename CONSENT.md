@@ -8,7 +8,10 @@ volume: "Vol 16 — Resilience & Consent"
 maintained_by: TotalMarkdown.ai
 license: CC0 1.0 Universal
 tier: core
+spec_type: static
 ---
+> **Static Configuration** — committed to your repository
+
 
 # CONSENT.md
 
@@ -315,3 +318,4 @@ multi_agent_consent:
 
 *Part of [agent-md-specs](https://github.com/totalmarkdown/agent-md-specs)*
 *Maintained by TotalMarkdown.ai · License: CC0 1.0 Universal*
+
